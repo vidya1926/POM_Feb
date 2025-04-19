@@ -1,0 +1,7 @@
+Agenda:
+-------
+github actions(CI)
+geolocation
+deviceEmulation
+network interception
+visual regression testing

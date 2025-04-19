@@ -1,0 +1,24 @@
+Topics to be covered
+--------------------
+Github actions (CI)
+GeoLocation
+Device emulation
+Network interception
+Visual regression testing
+console.logs
+
+------------------
+GitHub -->cloud repository
+GitLab
+Gitpod
+
+Git -->distribute version control software
+
+local repo 
+remote repo
+https://git-scm.com/downloads/win  -->git software
+
+
+git clone https://github.com/vidya1926/POM_Feb.git
+
+git init  -->init git  -->lib need to support to push and pull the codes
