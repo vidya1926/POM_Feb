@@ -22,3 +22,25 @@ https://git-scm.com/downloads/win  -->git software
 git clone https://github.com/vidya1926/POM_Feb.git
 
 git init  -->init git  -->lib need to support to push and pull the codes
+
+git add .
+
+git commit -m "mesage"
+
+git remote add  <url>
+
+git push 
+
+
+------------------
+git add .
+
+git commit -m "cde"
+
+git push 
+
+only when you want use youy username and password
+git config -g user.name " "
+git config -g user.email " "
+
+------------------------------

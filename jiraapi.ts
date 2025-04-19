@@ -35,6 +35,8 @@ export async function createIssue(summary:string,description:string){
         }
     })
 
+    
+
 
     console.log(response.status)
     console.log(response.data)
