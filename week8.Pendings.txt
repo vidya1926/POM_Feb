@@ -1,5 +1,6 @@
 Agenda:
 -------
+git commands
 github actions(CI)
 geolocation
 deviceEmulation
